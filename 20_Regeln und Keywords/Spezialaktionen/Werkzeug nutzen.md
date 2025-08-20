@@ -1,0 +1,19 @@
+---
+typ: "Spezialaktion"
+tags:   
+  - fähigkeit
+  - spezialaktion
+---  
+
+# Werkzeug nutze (X, Kartentyp) 
+**Regel:** Zahle X Ausdauer. Nimm eine Karte des Typs [Kartentyp] deiner Wahl aus deinem Ablagestapel auf deine Hand.
+
+## Karten mit dieser Fähigkeit  
+```dataview 
+TABLE WITHOUT ID   
+	file.link as "Tier",  
+	sterne as "Sterne",   
+	ap as "AP-Kosten" 
+FROM #tierkarte 
+WHERE contains(file.outlinks, this.file.link) 
+SORT sterne DESC
