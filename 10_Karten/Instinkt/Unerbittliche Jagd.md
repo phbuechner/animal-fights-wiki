@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Gegnerisches Tier erlitt Schaden"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Unerbittliche Jagd
@@ -22,7 +22,7 @@ tags:
 ---
 ## Regeltext & Effekt
 
-> *Wähle ein gegnerisches Tier, das in diesem Zug bereits Schaden erlitten hat. Dein [[Einzelgänger]]-Tier erhält +2 auf seinen nächsten Angriffswurf gegen dieses Ziel.*
+> *Wähle ein gegnerisches Tier, das in diesem Zug bereits Schaden erlitten hat. Dein [[Einzelgänger (Fähigkeit)]]-Tier erhält +2 auf seinen nächsten Angriffswurf gegen dieses Ziel.*
 
 ---
 ## Strategische Notizen
