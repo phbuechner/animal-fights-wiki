@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Vor einem Angriff"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Unaufhaltsamer Ansturm
