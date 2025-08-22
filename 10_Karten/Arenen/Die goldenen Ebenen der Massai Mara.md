@@ -13,7 +13,7 @@ terrain_keywords:
 klima:
   - Gemäßigt
 tags:
-  - arenakarte
+  - karte/arenakarte
 ---
 
 # Die goldenen Ebenen der Massai Mara
@@ -59,3 +59,6 @@ TABLE anpassungen as "Angepasst an"
 FROM #tierkarte
 WHERE anpassungen AND any(anpassungen, (p) => contains(["Offenes Gelände", "Dämmerung"], p))
 SORT file.name ASC
+```
+# Notizen
+- Druckfehler
