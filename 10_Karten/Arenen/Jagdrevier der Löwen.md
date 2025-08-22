@@ -12,7 +12,7 @@ terrain_keywords:
 klima:
   - Gemäßigt
 tags:
-  - arenakarte
+  - karte/arenakarte
 ---
 
 # Jagdrevier der Löwen
