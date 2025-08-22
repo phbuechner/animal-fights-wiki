@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Karte kehrt zurück auf die Hand"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Ins Leere gelockt
