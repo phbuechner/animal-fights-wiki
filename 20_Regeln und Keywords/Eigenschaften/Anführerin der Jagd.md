@@ -6,7 +6,7 @@ tags:
 
 # Anführerin/Anführer der Jagd
 
-**Regel:** Die Spezialaktion [[Hetzjagd]] kostet für dieses Tier 0 AP statt der üblichen Kosten. 
+**Regel:** Die Spezialaktion [[Hetzjagd]] kostet für dieses Tier 1 AP statt der üblichen Kosten. 
 
 ## Karten mit dieser Fähigkeit
 
