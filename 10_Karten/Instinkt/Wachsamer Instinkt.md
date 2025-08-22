@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Reaktion auf Instinktkarte"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Wachsamer Instinkt
