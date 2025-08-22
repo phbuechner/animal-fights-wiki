@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Nach Initiativbestimmung"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Königlicher Anspruch
