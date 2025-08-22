@@ -15,7 +15,7 @@ terrain_keywords:
 klima:
   - Tropisch
 tags:
-  - arenakarte
+  - karte/arenakarte
 ---
 
 # Morgennebel am Luangwa-Fluss
