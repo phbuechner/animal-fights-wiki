@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Am Ende des Zuges"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Dominanz zur Schau stellen
