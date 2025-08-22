@@ -13,7 +13,7 @@ terrain_keywords:
 klima:
   - Gemäßigt
 tags:
-  - arenakarte
+  - karte/arenakarte
 ---
 
 # Das große Gnu-Treiben
@@ -27,7 +27,7 @@ tags:
 
 ## Regeltext & Effekte
 
-> *Zu Beginn der Initiativphase müssen alle Tiere mit der Eigenschaft [[Rudel]] oder [[Herde]] einen W6 würfeln. Bei einer 1 können sie in dieser Runde nicht angreifen..*
+> *Zu Beginn der Initiativphase müssen alle Tiere mit der Eigenschaft [[Rudel]] oder [[Archetyp - Herde]] einen W6 würfeln. Bei einer 1 können sie in dieser Runde nicht angreifen..*
 
 ---
 ## Strategische Überlegungen
