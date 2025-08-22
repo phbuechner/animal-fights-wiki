@@ -14,12 +14,12 @@
 
 ---
 ## Kampfablauf
-| Schritt | Aktion | Kosten | Formel |
-| :--- | :--- | :--- | :--- |
-| **1. Angriff** | Ziel deklarieren | 1 Ausdauer | |
-| **2. Reaktion** | [[Abwehren]] ODER [[Ausweichen]] wählen | 1 Ausdauer | |
-| **3. Ergebnis**| Beide würfeln 1W6 | - | **Angriff:** `[[Stärke]] + W6` <br> **Verteidigung:** `[[Verteidigung]]/[[Agilität]] + W6` |
-| **4. Schaden** | Differenz berechnen | - | **Schaden:** `Angriffs-Ergebnis - Verteidigungs-Ergebnis` <br> **Ausdauerverlust:** `Schaden / 2` (aufgerundet) |
+| Schritt         | Aktion                                  | Kosten     | Formel                                                                                                          |
+| :-------------- | :-------------------------------------- | :--------- | :-------------------------------------------------------------------------------------------------------------- |
+| **1. Angriff**  | Ziel deklarieren                        | 1 Ausdauer |                                                                                                                 |
+| **2. Reaktion** | [[Abwehren]] ODER [[Ausweichen]] wählen | 1 Ausdauer |                                                                                                                 |
+| **3. Ergebnis** | Beide würfeln 1W6                       | -          | **Angriff:** `[[Stärke]] + 2W6` <br> **Verteidigung:** `[[Verteidigung]]/[[Agilität]] + 2W6`                    |
+| **4. Schaden**  | Differenz berechnen                     | -          | **Schaden:** `Angriffs-Ergebnis - Verteidigungs-Ergebnis` <br> **Ausdauerverlust:** `Schaden / 2` (aufgerundet) |
 
 **Gleichstand:** Kein Schaden, beide verlieren 1 Ausdauer.
 **Ausweichen scheitert:** [[Die Zweite Chance (Ausweichen)|Zweite Chance]] für 1 weitere Ausdauer.
@@ -39,5 +39,5 @@
 - **Handkartenlimit:** 5
 - **Standard-AP pro Zug:** 2
 - **Standard-Ausdauer-Regeneration:** 2
-- **Einschüchterung:** `1W6 + ★` vs. `1W6 + ★`
-- **Initiative:** `Agilität + 1W6`
+- **Einschüchterung:** `2W6 + ★` vs. `2W6 + ★`
+- **Initiative:** `Agilität + 2W6`
