@@ -13,7 +13,7 @@ tags:
 
 Der **Scharmützel-Modus** ist für schnelle, dynamische und kürzere Partien ausgelegt.
 
-- **Siegbedingung:** Der erste Spieler, der **6 Trophäen-Punkte** erreicht, gewinnt.
+- **Siegbedingung:** Der erste Spieler, der **8 Trophäen-Punkte** erreicht, gewinnt.
 - **Deckbau:** Für diesen Modus gelten die spezifischen [[Deckbau-Regeln#Scharmützel-Modus|Deckbau-Regeln für den Scharmützel-Modus]].
 - **Besonderheiten:** Die optionale [[Ruhestand]]-Regel kommt in diesem Modus nicht zur Anwendung.
 
