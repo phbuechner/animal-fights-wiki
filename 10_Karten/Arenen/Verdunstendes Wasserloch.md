@@ -15,7 +15,7 @@ terrain_keywords:
 klima:
   - Extreme Hitze
 tags:
-  - arenakarte
+  - karte/arenakarte
 ---
 
 # Verdunstendes Wasserloch
