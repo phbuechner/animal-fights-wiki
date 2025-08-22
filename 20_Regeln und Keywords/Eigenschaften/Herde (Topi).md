@@ -4,7 +4,7 @@ tags:
   - herde
 --- 
 # Herde (Topi)  
-Dies ist eine spezifische Art von [[Herde]]. Nur Tiere mit dieser Eigenschaft können sich einer Topi-Herde anschließen.  
+Dies ist eine spezifische Art von [[Archetyp - Herde]]. Nur Tiere mit dieser Eigenschaft können sich einer Topi-Herde anschließen.  
 
 ## Tiere mit dieser Eigenschaft  
 ```dataview 
