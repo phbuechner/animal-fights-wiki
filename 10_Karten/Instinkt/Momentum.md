@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Beginn der Initiativephase"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Momentum
