@@ -4,7 +4,7 @@ tags:
   - herde
 ---  
 # Herde (Giraffe)  
-Dies ist eine spezifische Art von [[Herde]]. Nur Tiere mit dieser Eigenschaft können sich einer Giraffen-Herde anschließen.  
+Dies ist eine spezifische Art von [[Archetyp - Herde]]. Nur Tiere mit dieser Eigenschaft können sich einer Giraffen-Herde anschließen.  
 
 ## Tiere mit dieser Eigenschaft  
 ```dataview 
