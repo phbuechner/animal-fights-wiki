@@ -14,7 +14,7 @@ terrain_keywords:
 klima:
   - Arid
 tags:
-  - arenakarte
+  - karte/arenakarte
 ---
 
 # Verstecktes Wasserloch
