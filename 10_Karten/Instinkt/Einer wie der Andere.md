@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Kontrolle von Gruppierung"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Einer wie der Andere
