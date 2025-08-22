@@ -14,7 +14,7 @@ terrain_keywords:
 klima:
   - Gemäßigt
 tags:
-  - arenakarte
+  - karte/arenakarte
 ---
 
 # Weitläufiges Jagdrevier
