@@ -14,7 +14,7 @@ terrain_keywords:
 klima:
   - Tropisch
 tags:
-  - arenakarte
+  - karte/arenakarte
 ---
 
 # Galeriewald am Flussufer
