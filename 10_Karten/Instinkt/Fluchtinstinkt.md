@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Reaktion Angriff"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Fluchtinstinkt
