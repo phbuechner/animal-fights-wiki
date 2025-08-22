@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Jederzeit"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Ruf der Löwen
