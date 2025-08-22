@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Kontrolle von Tier"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Hoch erhobene Hälse
