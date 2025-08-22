@@ -8,7 +8,7 @@ set_nummer: "SEAF 061"
 timing: '"Reaktion auf Angriff"'
 synergie: 
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Aufgewirbelter Staub
