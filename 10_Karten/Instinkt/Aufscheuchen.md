@@ -8,7 +8,7 @@ set_nummer: "SEAF 062"
 timing: '"Jederzeit"'
 synergie: 
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Aufscheuchen
