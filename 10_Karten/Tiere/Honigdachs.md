@@ -1,18 +1,25 @@
 ---
 typ: Tierkarte
-deck_typ: "Persönlich"
+deck_typ: Persönlich
 sterne: 2
 name: Honigdachs
-edition: "Savannen Edition, Afrika Saga"
-set_nummer: "SEAF 015"
+edition: Savannen Edition, Afrika Saga
+set_nummer: SEAF 015
 stärke: 4
 verteidigung: 4
 gesundheit: 3
 agilität: 5
 ausdauer: 7
 ap: 2
-habitat: ["Generalist"]
-klimazone: ["Arid", "Tropisch"]
+spielweise: "Einzelgänger"
+archetypen:
+  - Allrounder
+gruppensubtyp: ""
+habitat:
+  - Generalist
+klimazone:
+  - Arid
+  - Tropisch
 keywords:
   - Klein
   - Fleischfresser
@@ -24,7 +31,6 @@ tags:
   - tierkarte
 ---
 
-# Honigdachs
 
 | Attribut | Wert |
 |---|---|
@@ -38,7 +44,8 @@ tags:
 
 - **[[Berserker]]**
 - **[[Resistenz]] ([[Einschüchterung]]**
-- **[[Zähes Fell_Zähe Schuppen|Zähes Fell]]**
+- **[[Zähes Fell_Zähe Schuppen_Zähe Haut|Zähes Fell]]**
+- **[[Einzelgänger (Fähigkeit)|Einzelgänger]]**
 
 ## Spezialaktion
 
