@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Beginn des Zuges"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Schlummerndes Potential
