@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Zu Beginn der Runde"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Sammelruf
