@@ -6,12 +6,18 @@ name: Spitzmaulnashorn
 edition: Savannen Edition, Afrika Saga
 set_nummer: SEAF 003
 erweiterung: ""
-stärke: 8
+stärke: 5
 verteidigung: 7
 gesundheit: 9
-agilität: 3
-ausdauer: 6
-ap: 2
+agilität: 2
+ausdauer: 8
+ap: 3
+
+# --- STRATEGISCHE IDENTITÄT ---
+spielweise: "Einzelgänger"
+archetypen: ["Einzelgänger"] 
+gruppensubtyp: "" 
+
 habitat: ["Trockengebiet", "Savanne"]
 heimvorteil_effekt: ""
 anpassungen: ["Engpass"]
@@ -37,9 +43,7 @@ tags:
 
 ## Eigenschaften
 
-- [[Anpassung (Engpass)]]
-	- Anpassung:: Engpass
-	- Effekt:: Erhält +2 Stärke
+- [[Einzelgänger (Fähigkeit)|Einzelgänger]]
 - [[Ansturm]] (2)
 	- Ansturm:: 2
 - [[Panzer]] (2)
