@@ -8,7 +8,7 @@ set_nummer: "SEAF 063"
 timing: '"Jederzeit"'
 synergie: 
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Blut im Wind
