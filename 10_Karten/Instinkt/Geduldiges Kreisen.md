@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Ende der Runde"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Geduldiges Kreisen
