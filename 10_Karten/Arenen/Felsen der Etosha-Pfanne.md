@@ -13,7 +13,7 @@ terrain_keywords:
 klima:
   - Extreme Hitze
 tags:
-  - arenakarte
+  - karte/arenakarte
 ---
 
 # Felsen der Etosha-Pfanne
