@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Jederzeit"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Meister des Terrains (Instinktkarte)
