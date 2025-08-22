@@ -11,6 +11,11 @@ gesundheit: 5
 agilität: 6
 ausdauer: 5
 ap: 2
+
+spielweise: "Einzelgänger"
+archetypen: ["Lauerjäger", "Einzelgänger"]
+gruppensubtyp: ""
+
 habitat:
   - Savanne
   - Wald
@@ -44,17 +49,14 @@ tags:
 
 - [[Einzelgänger]]
 - [[Lauerjäger]]
-- [[Anpassung (Baumkronen)]]
-	- Anpassung:: Baumkronen
-	- Effekt:: Erhält [[Hohe Warte]]
-- [[Anpassung (Höhenlage)]]
-	- Anpassung:: Baumkronen
-	- Effekt:: Erhält [[Hohe Warte]]
+- **[[Anpassung (Höhenlage)]] / [[Anpassung (Höhenlage)]]** 
+    - Anpassung:: ["Höhenlage", "Baumkronen"]
+    - Effekt:: Erhält die Fähigkeit [[Hohe Warte]].
 
 ## Spezialaktion
 
-- **[[Hinterhalt]]** (2AP)
-- **[[Durchbohrender Sprung]]** (1AP)
+- **[[Schattenflucht]]** (1 AP)
+- **[[Durchbohrender Sprung]]** (1 AP)
 
 ## Strategische Notizen & Synergien
 
