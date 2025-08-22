@@ -15,7 +15,7 @@ terrain_keywords:
 klima:
   - Arid
 tags:
-  - arenakarte
+  - karte/arenakarte
 ---
 
 # Geierschlucht im Serengeti
