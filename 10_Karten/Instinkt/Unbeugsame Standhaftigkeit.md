@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Nach Schaden erlitten"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Unbeugsame Standhaftigkeit
