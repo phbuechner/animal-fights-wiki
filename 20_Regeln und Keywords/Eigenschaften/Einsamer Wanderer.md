@@ -6,7 +6,7 @@ tags:
 
 # Einsamer Wanderer
 
-**Regel:** Erhält [[Einzelgänger]] sowie [[Resistenz]] ([[Einschüchterung]]) und [[Resistenz]] ([[Festhalten]])
+**Regel:** Erhält [[Einzelgänger (Fähigkeit)]] sowie [[Resistenz]] ([[Einschüchterung]]) und [[Resistenz]] ([[Festhalten]])
 
 ## Karten mit dieser Fähigkeit
 
