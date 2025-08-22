@@ -1,18 +1,20 @@
 ---
-typ: Instinktkarte
-deck_typ: Persönlich
-sterne: 1
-name: In die Enge getrieben
+typ: "Instinktkrate"
+deck_typ: "Persönlich"
+sterne: 2 
+name: "In die Enge getrieben"
 edition: Savannen Edition, Afrika Saga
 set_nummer: SEAF 078
-erweiterung: ""
-timing: '"Reaktion auf Angriff"'
-synergie: []
+timing: "Reaktion auf Angriffs-Deklaration"
+synergie_mit: ["Pflanzenfresser"]
+synergie_grund: "Bestraft Angreifer, indem sie ihnen wichtige Ressourcen entzieht."
 tags:
   - instinktkarte
 ---
 
-# In die Enge getrieben
+# [[In die Enge getrieben]]
+
+> *Konfrontiert mit einem entschlossenen Pflanzenfresser, der seine Position hält, muss der Jäger mehr Energie aufwenden als erwartet und verliert an Schwung.*
 
 | Eigenschaft | Wert |
 |---|---|
@@ -22,11 +24,12 @@ tags:
 ---
 ## Regeltext & Effekt
 
-> *Spiele diese Karte als Reaktion, wenn eines deiner [[Pflanzenfresser]]-Tiere angegriffen wird. Unabhängig vom Ergebnis des Kampfes verliert der Angreifer 1 AP.*
+Spiele diese Karte als **Reaktion**, wenn eines deiner **[[Pflanzenfresser]]**-Tiere als Ziel eines Angriffs gewählt wird. Wähle einen Effekt:
+- Das angreifende Tier verliert **2 [[Ausdauer]]**.
+- **ODER:** Das angreifende Tier verliert **1 [[AP]]**.
 
 ---
 ## Strategische Notizen
-
-*Hier ist Platz für Ihre eigenen Gedanken: In welchem Deck spielt man diese Karte? Was sind ihre Stärken und Schwächen?*
+... (Text bleibt gleich) ...
 
 ---
