@@ -13,7 +13,7 @@ terrain_keywords:
 klima:
   - Gemäßigt
 tags:
-  - arenakarte
+  - karte/arenakarte
 ---
 
 # Endlose Ebenen der Serengeti
