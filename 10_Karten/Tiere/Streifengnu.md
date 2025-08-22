@@ -5,14 +5,20 @@ sterne: 2
 name: Streifengnu
 edition: "Savannen Edition, Afrika Saga"
 set_nummer: "SEAF 024"
-stärke: "2"
-verteidigung: 3
+stärke: 3
+verteidigung: 4
 gesundheit: 4
-agilität: 4
+agilität: 3
 ausdauer: 6
 ap: 2
+
+# --- STRATEGISCHE IDENTITÄT ---
+spielweise: "Gruppe"
+archetypen: ["Herde"] 
+gruppensubtyp: "Streifengnu" 
+
 habitat: ["Savanne", "Feuchtgebiet"]
-heimvorteil_effekt: "Andere Tiere der Herde erhalten +1 Verteidigung."
+heimvorteil_effekt: ""
 klimazone: ["Arid"]
 keywords:
   - Mittel
@@ -22,12 +28,9 @@ keywords:
 tags:
   - tierkarte
   - 2-Sterne
-
 ---
 
 
-
-# Streifengnu
 
 | Attribut | Wert |
 |---|---|
@@ -39,15 +42,15 @@ tags:
 
 ## Eigenschaften
 
-- **[[Herde (Streifengnu)]]**
-- **[[Stampede (3)]]**
-	- **Effekt**:: Alle Tiere dieser Herde erhalten +1 Stärke und +1 auf alle [[Einschüchterungstests]]
-- **[[Heimvorteil]]**
-	- **Effekt**:: Andere Tiere der Herde erhalten +1 Verteidigung.
+- [[Herde (Streifengnu)]]
+- [[Sicherheit in der Masse]]
+	- Anzahl:: 3
+	- Effekt:: Erhält [[Wachsamkeit]] und Kann nicht als Ziel von gegnerischen Spezialaktionen gewählt werden.
+- [[Stampede]]
 
-## Spezialaktion
-
-- **[[Instinktives Rufen]] (Streifengnu)** (1 AP)
+## Spezialaktionen
+- **[[Weidegrund suchen]]** (2 AP) 
+- **[[Verwirrungstaktik]]** (1 AP) 
 
 ## Strategische Notizen & Synergien
 
