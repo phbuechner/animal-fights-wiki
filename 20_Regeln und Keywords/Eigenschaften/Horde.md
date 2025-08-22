@@ -6,7 +6,7 @@ tags:
 
 # Horde
 
-Eine **Horde** ist eine [[Gruppierungseigenschaft]], die eine große, oft gemischte oder von einem dominanten Anführer zusammengehaltene Gruppe von Tieren beschreibt. Im Gegensatz zum disziplinierten [[Rudel]] oder der defensiven [[Herde]] kann der Spielstil einer Horde stark variieren.
+Eine **Horde** ist eine [[Gruppierungseigenschaft]], die eine große, oft gemischte oder von einem dominanten Anführer zusammengehaltene Gruppe von Tieren beschreibt. Im Gegensatz zum disziplinierten [[Rudel]] oder der defensiven [[Archetyp - Herde]] kann der Spielstil einer Horde stark variieren.
 
 ## Regeln
 Tiere mit der Eigenschaft "Horde" können Gruppen mit anderen Tieren bilden, die dieselbe spezifische Horde-Eigenschaft haben (z.B. [[Horde (Mandrill)]] mit anderen Mandrills).
