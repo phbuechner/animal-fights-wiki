@@ -9,7 +9,7 @@ timing: "Vor einem Angriff"
 synergie:
   - "Tsavo-Löwe"
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # An der Spitze der Nahrungskette
