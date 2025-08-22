@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Vor Angriff"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Unversöhnlicher Ansturm
