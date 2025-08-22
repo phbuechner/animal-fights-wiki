@@ -2,20 +2,31 @@
 typ: "Fähigkeit"
 tags:
   - fähigkeit
+  - keyword
 ---
 
 # Lauerjäger
 
-**Regel:** Dieses Tier kann die Lauern-Aktion (Grundaktion, 0 AP) ausführen. Es versetzt sich in den [[Lauernd]]-Status (+1 Stärke, +1 Verteidigung, AP können gespart werden) und beendet sofort seinen Zug. Der Lauern Status wird sofort beendet, sollte das Lauernde Tier entweder einen Angriff ausführen oder es wählt die Reaktion Ausweichen nach einem Angriff.
+**Lauerjäger** ist eine Fähigkeit, die es einem Tier erlaubt, sich für einen Zug zu verstecken, um im darauffolgenden Zug einen tödlichen, vorbereiteten Angriff auszuführen.
 
-## Karten mit dieser Fähigkeit
+## Zugehörige Aktion
+Tiere mit dieser Fähigkeit können die folgende Grundaktion ausführen:
+- **[[Lauern]] (1 AP, beendet den Zug):** Versetze dieses Tier in den Zustand [[Lauernd]].
+
+## Strategie
+Die Lauerjäger-Mechanik ist eine "High-Risk, High-Reward"-Strategie. Der Spieler opfert das Tempo eines ganzen Zuges (indem er die Aktion des Tieres beendet), um im nächsten Zug einen extrem starken und zuverlässigen Angriff zu garantieren. Sie ist besonders effektiv, um einzelne, hochwertige Ziele auszuschalten.
+
+---
+### Alle Lauerjäger
 
 ```dataview
-TABLE WITHOUT ID   
-	file.link as "Tier",   
-	sterne as "Sterne" 
+TABLE WITHOUT ID
+  file.link as "Tier",
+  sterne as "★",
+  stärke as "S",
+  agilität as "A"
 FROM #tierkarte
-WHERE contains(file.outlinks, this.file.link)
-````
+WHERE contains(keywords, "Lauerjäger")
+SORT agilität DESC
 
 
