@@ -7,16 +7,14 @@ tags:
 
 # Lauernd
 
-**Lauernd** ist ein positiver [[Status-Effekte (Übersicht)|Zustand]], der es einem Tier erlaubt, einen Überraschungsangriff vorzubereiten. Er entsteht über die Grundaktion **Lauern**, die [[Lauerjäger]] in der Regel nur ausüben können.
+**Lauernd** ist ein mächtiger, aber temporärer Zustand, der ein Tier auf einen perfekten Angriff vorbereitet.
 
-## Regeln & Vorteile
-Ein Tier im Lauernd-Zustand profitiert von folgenden Vorteilen:
-- Es erhält **+1 Stärke** auf seinen nächsten Angriff.
-- Es erhält **+1 Verteidigung**.
-- Es kann seine ungenutzten [[Aktionspunkte (AP)]] für die nächste Runde aufsparen.
+## Regeln & Effekte
+Ein Tier im Lauernd-Zustand erhält die folgenden beiden Fähigkeiten:
+1.  **[[Tarnung]]**: Das Tier kann nicht als Ziel von Angriffen oder Spezialaktionen gewählt werden.
+2.  **[[Hinterhalt]]**: Der erste Angriff, der aus dem Lauernd-Zustand heraus deklariert wird, erhält die folgenden Boni:
+    - Der Angriff kann **nicht ausgewichen** werden.
+    - Der Angriff erhält **+2 Stärke**.
 
-Der Lauernd-Zustand wird sofort beendet, sobald eine der folgenden Bedingungen eintritt:
-- Das Tier deklariert einen Angriff.
-- Das Tier wählt als Reaktion auf einen Angriff die [[Abwehren|Abwehren-Aktion]].
-
----
+## Dauer
+Der `Lauernd`-Zustand wird sofort beendet, sobald das Tier einen Angriff deklariert. Wenn es keinen Angriff deklariert, endet der Zustand am Ende des Zuges seines Besitzers.
