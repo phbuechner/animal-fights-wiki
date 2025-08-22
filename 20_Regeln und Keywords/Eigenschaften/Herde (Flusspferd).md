@@ -4,7 +4,7 @@ tags:
   - herde
 ---  
 # Herde (Flusspferd)
-Dies ist eine spezifische Art von [[Herde]]. Nur Tiere mit dieser Eigenschaft können sich einer Flusspferd-Herde anschließen. 
+Dies ist eine spezifische Art von [[Archetyp - Herde]]. Nur Tiere mit dieser Eigenschaft können sich einer Flusspferd-Herde anschließen. 
 
 ## Tiere mit dieser Eigenschaft  
 ```dataview 
