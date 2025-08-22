@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Nach Angriff"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Erbarmungslose Verfolgung
