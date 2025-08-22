@@ -13,7 +13,7 @@ terrain_keywords:
 klima:
   - Extreme Hitze
 tags:
-  - arenakarte
+  - karte/arenakarte
 ---
 
 # Die brennende Sonne von Tsavo
