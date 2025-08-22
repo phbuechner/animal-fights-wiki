@@ -3,7 +3,7 @@ typ: "Gruppierung-Spezifisch"
 tags:
   - rudel
 ---
-# Rudel (Afrikanischer Wildhund)  
+# Rudel (Tüpfelhyäne)  
 Dies ist eine spezifische Art von [[Rudel]]. Nur Tiere mit dieser Eigenschaft können sich einem Tüpfelhyänen Rudel anschließen.  
 
 ## Tiere mit dieser Eigenschaft  
