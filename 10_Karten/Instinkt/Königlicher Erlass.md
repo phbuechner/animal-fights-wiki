@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Reaktion auf Einschüchterungstest"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Königlicher Erlass
