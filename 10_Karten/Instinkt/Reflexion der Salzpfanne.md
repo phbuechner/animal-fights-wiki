@@ -9,7 +9,7 @@ erweiterung: ""
 timing: '"Reaktion auf Angriff"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Reflexion der Salzpfanne
