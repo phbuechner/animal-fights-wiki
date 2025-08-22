@@ -8,7 +8,7 @@ set_nummer: "SEAF 064"
 timing: '"Jederzeit"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Der Kreis schließt sich
