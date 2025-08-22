@@ -13,7 +13,7 @@ terrain_keywords:
 klima:
   - Tropisch
 tags:
-  - arenakarte
+  - karte/arenakarte
 ---
 
 # Uferdickicht des Luangwa
@@ -27,7 +27,7 @@ tags:
 
 ## Regeltext & Effekte
 
-> *Tiere mit der Eigenschaft [[Lauerjäger]] oder [[Einzelgänger]] können nicht als Ziel von Instinktkarten des Gegners gewählt werden, solange sie nicht angegriffen haben. Alle Tiere mit dem Keyword [[Fliegend]] verlieren dieses Keyword.*
+> *Tiere mit der Eigenschaft [[Lauerjäger]] oder [[Einzelgänger (Fähigkeit)]] können nicht als Ziel von Instinktkarten des Gegners gewählt werden, solange sie nicht angegriffen haben. Alle Tiere mit dem Keyword [[Fliegend]] verlieren dieses Keyword.*
 
 ---
 ## Strategische Überlegungen
