@@ -11,12 +11,12 @@ Die folgenden Regeln gelten für die Zusammenstellung deines persönlichen Decks
 ---
 ## Scharmützel-Modus
 
-- **Deckgröße:** Mindestens 12, maximal 20 Karten.
-- **Sternenlimit:** Maximal **20 Sterne (★)** insgesamt.
-- **Tier-Investment:** Mindestens **9 Sterne** müssen in Tierkarten investiert sein.
+- **Deckgröße:** Mindestens 15, maximal 30 Karten.
+- **Sternenlimit:** Maximal **30 Sterne (★)** insgesamt.
+- **Tier-Investment:** Mindestens **10 Sterne** müssen in Tierkarten investiert sein.
 
 ### Tier-Slots (Scharmützel)
-- **4-Sterne-Tiere:** Maximal 0
+- **4-Sterne-Tiere:** Maximal 1
 - **3-Sterne-Tiere:** Maximal 3
 - **2-Sterne-Tiere:** Maximal 7
 - **1-Stern-Tiere:** Unbegrenzt (innerhalb des Kopien-Limits)
