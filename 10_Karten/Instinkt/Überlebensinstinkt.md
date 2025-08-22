@@ -9,15 +9,15 @@ erweiterung: ""
 timing: '"Jederzeit"'
 synergie: []
 tags:
-  - instinktkarte
+  - karte/instinktkarte
 ---
 
 # Überlebensinstinkt
 
-| Eigenschaft | Wert |
-|---|---|
-| **Sterne** | `=this.sterne` |
-| **Timing** | `=this.timing` |
+| Eigenschaft | Wert           |
+| ----------- | -------------- |
+| **Sterne**  | `=this.sterne` |
+| **Timing**  | `=this.timing` |
 
 ---
 ## Regeltext & Effekt
